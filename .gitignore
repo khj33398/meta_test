@@ -21,7 +21,8 @@ target/
 application.properties
 application-sms.properties
 .mvn
-
+maven-wrapper.jar
+maven-wrapper.properties
 
 ### NetBeans ###
 /nbproject/private/
