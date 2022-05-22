@@ -20,6 +20,7 @@ target/
 *.ipr
 application.properties
 application-sms.properties
+.mvn
 
 ### NetBeans ###
 /nbproject/private/
